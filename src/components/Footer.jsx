@@ -24,9 +24,9 @@ const Footer = () => {
         <h2>Social Media</h2>
 
         <article>
-          <a href="https://youtube.com/6packprogrammer" target={"blank"}>
-            <AiFillYoutube />
-          </a>
+         {/* <a href="https://youtube.com/6packprogrammer" target={"blank"}> */}
+            {/* <AiFillYoutube /> */}
+          {/* </a>  */}
           <a href="https://instagram.com/__ayushh" target={"blank"}>
             <AiFillInstagram />
           </a>
